@@ -1,5 +1,5 @@
 {
-    "name": "rajeshwws/module-customerimport",
+    "name": "rajeshwws/magento-customerimport",
     "description": "Customer Import Using CSV and JSON",
     "type": "magento2-module",
     "license": [
