@@ -1,0 +1,35 @@
+{
+    "name": "rajeshwws/module-customerimport",
+    "description": "Customer Import Using CSV and JSON",
+    "type": "magento2-module",
+    "license": [
+       "OSL-3.0",
+       "AFL-3.0"
+   ],
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Rajeshwws",
+            "email": "rajeshkrajput6@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "~7.3.0||~7.4.0",
+        "magento/module-customer": ">=102.0.0"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Rajeshwws\\Customerimport\\": ""
+        }
+    },
+    "minimum-stability": "dev",
+    "repositories": {
+        "magento": {
+            "type": "composer",
+            "url": "https://repo.magento.com"
+        }
+    }
+}
