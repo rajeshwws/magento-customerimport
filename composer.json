@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Rajeshwws\\Customerimport\\"
+            "Rajeshwws\\Customerimport\\": ""
         },
         "files": [
             "registration.php"
