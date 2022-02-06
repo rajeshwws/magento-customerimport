@@ -25,7 +25,6 @@
             "Rajeshwws\\Customerimport\\": ""
         }
     },
-    "minimum-stability": "dev",
     "repositories": {
         "magento": {
             "type": "composer",
