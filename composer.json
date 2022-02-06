@@ -14,8 +14,7 @@
         }
     ],
     "require": {
-        "php": "~7.3.0||~7.4.0",
-        "magento/module-customer": ">=102.0.0"
+        "php": "~7.3.0||~7.4.0"
     },
     "autoload": {
         "files": [
@@ -23,12 +22,6 @@
         ],
         "psr-4": {
             "Rajeshwws\\Customerimport\\": ""
-        }
-    },
-    "repositories": {
-        "magento": {
-            "type": "composer",
-            "url": "https://repo.magento.com"
         }
     }
 }
